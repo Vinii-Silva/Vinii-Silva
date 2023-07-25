@@ -20,6 +20,7 @@ Cada projeto, exercício ou anotação possui seu próprio diretório com uma br
 Se você encontrar algo interessante ou quiser contribuir de alguma forma, fique à vontade para abrir um Pull Request. Suas sugestões e feedbacks serão muito bem-vindos!
 
 **Contato**
-Se quiser entrar em contato comigo, você pode me encontrar no LinkedIn ou me enviar um e-mail para viniciuscr10@hotmail.com
+Se quiser entrar em contato comigo, você pode me encontrar no LinkedIn https://www.linkedin.com/in/vinicius-da-silva-francisco-07a31a270/ 
+ou me enviar um e-mail para viniciuscr10@hotmail.com
 
 Espero que este repositório possa ser útil para outros estudantes e entusiastas de Python. Bons estudos e divirta-se codando! :rocket:
