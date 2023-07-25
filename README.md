@@ -3,8 +3,7 @@ Bem-vindo ao meu repositório de aprendizado de Python! :snake:
 Sobre este repositório
 Este repositório foi criado para documentar minha jornada na programação. Aqui você encontrará projetos, exercícios, anotações e outros materiais relacionados ao meu aprendizado.
 
-<b>Sobre mim
-<\b>
+Sobre mim
 Meu nome é Vinicius da Silva e sou estudante do curso de Análise e Desenvolvimento de Sistemas no 2º semestre. Sou apaixonado por tecnologia e estou empenhado em aprimorar minhas habilidades de programação.
 
 O que você encontrará aqui
