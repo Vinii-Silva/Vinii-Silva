@@ -19,6 +19,6 @@ Cada projeto, exercício ou anotação possui um diretório específico com uma 
 Sua contribuição é muito bem-vinda! Se você encontrar algo interessante ou quiser compartilhar suas ideias, sinta-se à vontade para abrir um Pull Request. Seu feedback e sugestões são valiosos para meu desenvolvimento como programador(a).
 
 **Contato** :email::
-Você pode me encontrar no LinkedIn ou me enviar um e-mail para viniciuscr10@hotmail.com.
+Você pode me encontrar no LinkedIn ou me enviar um e-mail para viniciuscr10@hotmail.com
 
 Espero que meu repositório seja inspirador para outros estudantes e entusiastas de Python. Bons estudos e divirta-se codando! :rocket:
